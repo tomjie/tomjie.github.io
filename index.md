@@ -1,5 +1,5 @@
 ---
-title: Keep on Fighting!
+title: 菩提本无树，明镜亦非台
 layout: page
 ---
 
@@ -16,4 +16,3 @@ layout: page
   </li>
 {% endfor %}
 </ul>
-

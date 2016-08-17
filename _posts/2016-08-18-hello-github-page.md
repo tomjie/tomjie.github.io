@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: Github-pages
 categories:
 - other
 ---
