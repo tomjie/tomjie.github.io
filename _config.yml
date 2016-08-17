@@ -1,0 +1,5 @@
+markdown: redcarpet
+permalink: /:year/:month/:title/
+url: http://tomjie.github.io
+author: tomjie
+highlighter: pygments
